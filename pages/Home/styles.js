@@ -5,11 +5,14 @@ const styles = StyleSheet.create({
       flex:1,
     //   justifyContent: 'center',
       alignItems: 'center',
-      backgroundColor: '#D6CCC2'
+      backgroundColor: '#F5EBE0'
     }, 
     flor: {
         width: 150,
         marginTop: 80,
+    },
+    foto: {
+      width: 200
     }
   })
 

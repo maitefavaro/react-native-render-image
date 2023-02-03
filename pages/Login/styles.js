@@ -5,8 +5,16 @@ const styles = StyleSheet.create({
       flex:1,
       justifyContent: 'center',
       alignItems: 'center',
-      backgroundColor: '#D6CCC2'
+      backgroundColor: '#F5EBE0',
     }, 
+    container2:{
+      backgroundColor: '#E2D8CE',
+      alignItems: 'center',
+      justifyContent: 'center',
+      height: 200,
+      width: 400,
+      borderRadius: 10,
+    },
     imput: {
       marginTop: 10,
       width: 300,
@@ -19,7 +27,7 @@ const styles = StyleSheet.create({
     botao: {
       width: 250,
       height: 40,
-      backgroundColor: '#EDEDE9',
+      backgroundColor: '#D6CCC2',
       marginTop: 15,
       borderRadius: 4,
       alignItems: 'center',
@@ -27,7 +35,7 @@ const styles = StyleSheet.create({
     },
     botaoText: {
       fontSize: 14,
-      color: '#D5BDAF'
+      color: '#fff'
     }
   })
 
